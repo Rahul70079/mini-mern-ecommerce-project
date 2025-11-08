@@ -6,13 +6,21 @@ This project demonstrates authentication, product management, cart functionality
 🚀 Features
 
 ✅ User registration & login (JWT Authentication)
+
 ✅ Add, edit, delete products (Admin only)
+
 ✅ Product listing & details page
+
 ✅ Shopping cart (add/remove items)
+
 ✅ Checkout & order summary
+
 ✅ RESTful API with Express.js
+
 ✅ MongoDB database with Mongoose
+
 ✅ React frontend with Context API / Redux (choose one)
+
 ✅ Protected routes (Frontend + Backend)
 
 🏗️ Tech Stack
